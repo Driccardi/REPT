@@ -1,0 +1,7 @@
+{
+  "name": "LCD Menu",
+  "author": "Tom Waldock <X@X.com>",
+  "license": "GPL 2.1",
+  "version": "0.0.10",
+  "description": "A library that handles creating a menu structure for LCD Screens"
+}
